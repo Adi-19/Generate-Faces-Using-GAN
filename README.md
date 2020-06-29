@@ -6,3 +6,7 @@ Training a Deep Convolutional Generative Adversarial Network (DCGAN) on a datase
 
 # Defining the Model
 A GAN is comprised of two adversarial networks, a discriminator and a generator.
+
+# Note
+Run only if GPU is Avaiable.
+Warning : Don't Run on CPU
